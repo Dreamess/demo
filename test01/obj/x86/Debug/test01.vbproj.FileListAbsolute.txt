@@ -1,0 +1,12 @@
+C:\Users\淳皓\AppData\Local\Temporary Projects\test01\bin\Debug\test01.exe
+C:\Users\淳皓\AppData\Local\Temporary Projects\test01\bin\Debug\test01.pdb
+C:\Users\淳皓\AppData\Local\Temporary Projects\test01\bin\Debug\test01.xml
+C:\Users\淳皓\AppData\Local\Temporary Projects\test01\obj\x86\Debug\test01.Form1.resources
+C:\Users\淳皓\AppData\Local\Temporary Projects\test01\obj\x86\Debug\test01.Resources.resources
+C:\Users\淳皓\AppData\Local\Temporary Projects\test01\obj\x86\Debug\test01.vbproj.GenerateResource.Cache
+C:\Users\淳皓\AppData\Local\Temporary Projects\test01\obj\x86\Debug\test01.exe
+C:\Users\淳皓\AppData\Local\Temporary Projects\test01\obj\x86\Debug\test01.xml
+C:\Users\淳皓\AppData\Local\Temporary Projects\test01\obj\x86\Debug\test01.pdb
+D:\VB2010\test01\obj\x86\Debug\test01.exe
+D:\VB2010\test01\obj\x86\Debug\test01.xml
+D:\VB2010\test01\obj\x86\Debug\test01.pdb
